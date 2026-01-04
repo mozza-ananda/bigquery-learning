@@ -10,3 +10,4 @@ This repo contains things that I've learned about BigQuery and SQL.
 - Notes & explanation
 
 ## Progress
+[ ] basic_commands.sql
