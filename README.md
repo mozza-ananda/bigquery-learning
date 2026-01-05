@@ -11,5 +11,5 @@ I hope I can make a lot of learning progress by the end of the year!
 - Notes & explanation
 
 ## Progress
-[🧩] basic-commands.sql
-[🐚] cloud-shell.sql
+- [🧩] basic-commands.sql
+- [🐚] cloud-shell.sql
