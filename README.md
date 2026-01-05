@@ -3,6 +3,7 @@ BigQuery learning notes and some practice queries
 
 Hello 👽
 This repo contains things that I've learned about BigQuery and SQL.
+I hope I can make a lot of learning progress by the end of the year! 
 
 ## What's inside
 - Basics of SQL
@@ -10,4 +11,5 @@ This repo contains things that I've learned about BigQuery and SQL.
 - Notes & explanation
 
 ## Progress
-[ ] basic_commands.sql
+[🧩] basic-commands.sql
+[🐚] cloud-shell.sql
