@@ -5,3 +5,6 @@ SELECT start_station
 FROM london_bicycle 
 
 SELECT start_station FROM london_bicycle
+
+-- filters the output
+WHERE 
